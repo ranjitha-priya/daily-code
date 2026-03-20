@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-    baseURL: 'https://mern-backend-494q.onrender.com/api',
+    baseURL: 'https://mern-backend-6qll.onrender.com/api',
 });
 
 // Attach JWT token to every request
